@@ -1,0 +1,5 @@
+# contributor: Archenoth <Archenoth@archenoth.com>
+# name: jQuery function call
+# key: $
+# --
+$("$1").$0

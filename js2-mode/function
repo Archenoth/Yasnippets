@@ -1,0 +1,7 @@
+# contributor: Archenoth <Archenoth@archenoth.com>
+# name: Function
+# key: fn
+# --
+function${1:$(if (string-equal yas/text "") "" " ")}${1:}($2)${1:$(if (string-equal yas/text "") "" "\n")}{
+$>$0
+$>}

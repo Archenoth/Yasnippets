@@ -1,0 +1,8 @@
+# contributor: Archenoth <archenoth@archenoth.com>
+# name: New CSS definition
+# key: ..
+# --
+$1
+{
+$>$0
+}

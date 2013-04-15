@@ -1,0 +1,6 @@
+# contributor: Archenoth <Archenoth@archenoth.com>
+# name: Anonymous object element
+# key: ,
+# --
+,
+$>"$1":$0
