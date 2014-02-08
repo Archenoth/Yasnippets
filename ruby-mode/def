@@ -1,0 +1,7 @@
+# contributor: Archenoth <Archenoth@archenoth.com>
+# name: def
+# key: def
+# --
+def ${1:method}${2:$(if (string-equal yas/text "") "" "(")}${2:}${2:$(if (string-equal yas/text "") "" ")")}
+$>$0
+$>end
